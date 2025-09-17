@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am student in LAB University of Applied Sciences, and I study information and communication technology.
 <!--
 **henna003/henna003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
